@@ -46,7 +46,7 @@
       "max-interval": 60
     }
   },
-  "movement": {walk}
+  "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
